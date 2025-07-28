@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/subtitle-sync-and-quality-platform-88040/subtitle_platform_frontend"
+}
